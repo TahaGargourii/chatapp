@@ -3,4 +3,4 @@ import { StyleSheet, Text , Button , Text ,  } from 'react-native/types';
 import {signInWithEmailndPassword} from 'firebase/auth' ;
 import {auth} from "../config/firebase" ;
 
-const backImage = require("../assets/backImage.png") ;
+const backImage = require("../assets/imageBackground.png") ;
